@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tvC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dip"
+        android:paddingTop="16dip"
+        android:text="@string/textC346"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/tvC218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dip"
+        android:text="@string/textC218"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/tvC203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dip"
+        android:text="@string/textC203"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/tvC235"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dip"
+        android:text="@string/textC235"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/tvG953"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dip"
+        android:text="@string/textG953"
+        tools:ignore="RtlSymmetry" />
+
+    <TextView
+        android:id="@+id/tvC206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dip"
+        android:text="@string/textC206"
+        tools:ignore="RtlSymmetry" />
+</LinearLayout>
+
+
